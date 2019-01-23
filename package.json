@@ -1,0 +1,10 @@
+{
+  "name": "cpp_templates",
+  "version": "1.0.0",
+  "description": "An opinionated Hygen templates pack for react and rails",
+  "main": "index.js",
+  "repository": "github.com/CPPWind/cpp_templates",
+  "author": "Scott Parrish",
+  "license": "MIT",
+  "private": true
+}
